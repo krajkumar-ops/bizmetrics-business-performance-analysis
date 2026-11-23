@@ -117,5 +117,5 @@ The dataset contains 500 sales records with the following fields:
 BizMetrics shows how Microsoft Excel can transform raw business data into meaningful performance metrics and interactive visual reports that support business decision-making.
 
 ## Author
-**[Your Name]**
-[LinkedIn link] | [Email]
+**K RAJ KUMAR**
+[https://www.linkedin.com/in/k-raj-kumar-soltaur03/] | [luckyrajkumarr10@gmail.com]
