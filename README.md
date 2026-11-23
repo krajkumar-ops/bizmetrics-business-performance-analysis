@@ -64,7 +64,7 @@ The dataset contains 500 sales records with the following fields:
 
 ## Dashboard Preview
 
-![BizMetrics_Dashboard.xlsx.xlsx](Screenshots/dashboard.png)
+ [View Excel Workbook](./BizMetrics/BizMetrics.xlsx)
 
 ## Key Insights
 
